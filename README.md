@@ -93,4 +93,4 @@ Planned areas include:
 
 IT student focused on system analysis, databases, software development and AI/ML.
 
-GitHub: [ivan-repin]([https://github.com/](https://github.com/EggZechnick))
+GitHub: [ivan-repin]((https://github.com/EggZechnick))
