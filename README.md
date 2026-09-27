@@ -15,7 +15,7 @@ The main goal is to understand how data is represented and processed inside neur
 * **Rayon** — parallel computations
 * **rand / rand_distr** — random data generation
 * **Git**
-
+ 
 ## 🧮 Current Implementation
 
 The project currently contains a basic `Tensor` structure with support for:
